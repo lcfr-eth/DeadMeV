@@ -1,5 +1,5 @@
 # Dead/Dumb no-longer-used MEV scripts/bots
 
-ft-sniper.py - python bot for sniping early large twitter user account shares upon FT signup.  
+ft-sniper.py - Bot for sniping large twitter account shares upon FT signup.  
 
-rareid.py - python bot for sniping ENS registrations on an old version of RareId/GoDID (flawed custom bulk commit function).  
+rareid.py - Frontrun ENS name registrations via rareid/godid flawed bulkCommit function.
